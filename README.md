@@ -116,8 +116,3 @@ The evaluation confirms that HNSW-based vector search is the most efficient retr
 - OpenAI Embeddings
 - LangChain
 
----
-
-## Assignment Status
-
-**Completed**
